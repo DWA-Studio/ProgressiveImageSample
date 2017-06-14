@@ -1,0 +1,3 @@
+rootProject.name = 'ProgressiveImageSample'
+
+include ':app'
